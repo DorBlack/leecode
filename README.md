@@ -1,0 +1,2 @@
+# leecode
+practice some algorithm
